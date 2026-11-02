@@ -1,0 +1,1 @@
+console.log("DevSecOps Assignment One - Etsegenet Alebel");
