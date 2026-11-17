@@ -3,7 +3,7 @@
 
 ## Student Information
 - Full Name: Etsegenet Alebel
-- Student Number: [Enter your student number]
+- Student Number: [17]
 
 ## Repository Description
 This repository contains my practical work for Assignment One: From Manual Deployment to a Secure Pipeline. It demonstrates Git and GitHub usage, repository management, environment configuration, and DevSecOps security practices.
